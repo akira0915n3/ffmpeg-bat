@@ -1,0 +1,8 @@
+param
+1:mkv to mp4 (music so lowlate)
+2:h.265-nvenc-pp7
+3:h.264_nvenc
+4:mkv to mov(sources)
+
+hevc_nvenc
+h.264.nvenc
